@@ -1,3 +1,5 @@
+declare module 'string-sanitizers';
+
 export declare const ignoreLeadingZeros: (input: string) => string;
 export declare const ignoreSpaces: (input: string) => string;
 export declare const ignoreNonNumericCharacters: (input: string) => string;
