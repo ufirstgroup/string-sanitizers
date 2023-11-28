@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Functions to sanitize strings and address fileds",
   "main": "index.js",
+  "types": "index.d.ts",
   "repository": "git@github.com:ufirstgroup/string-sanitizers.git",
   "author": "Geoffroy Baumier <geoffroy.baumier@ufirstgroup.ch>",
   "packageManager": "yarn@3.2.2",
